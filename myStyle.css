@@ -8,7 +8,7 @@
 body{
     
     width: 100%;
-    background: radial-gradient(#292728 ,#17151d);
+    background: radial-gradient(#2e292c ,#17151d);
     display: grid;
     place-items: center;
 }
